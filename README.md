@@ -23,13 +23,14 @@ Há algum tempo venho buscando conhecimento na área de desenvolvimento web. Nã
 - Java
 - C#
 - Ruby
+- Python
 
 ### Frameworks e Bibliotecas:
 - Angular
 - React / React Native
 - ASP.NET Core 3
 - Ruby on Rails: curso do Jackson Pires (Udemy)
-- Backend com Python: Bootcamp Santander
+
 
 ---
 
