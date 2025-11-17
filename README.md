@@ -28,13 +28,13 @@ Há algum tempo venho buscando conhecimento na área de desenvolvimento web. Nã
 - Angular
 - React / React Native
 - ASP.NET Core 3
-- Ruby on Rails (estudando)
+- Ruby on Rails: curso do Jackson Pires (Udemy)
+- Backend com Python: Bootcamp Santander
 
 ---
 
 ## 📚 Atualmente estudando:
-- Ruby on Rails com o curso do Jackson Pires (Udemy)
-- Bootcamp Santander - Backend com Python
+???
 
 ---
 
